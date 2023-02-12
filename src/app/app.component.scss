@@ -1,0 +1,15 @@
+.taskCompletedStyle{
+    text-decoration: line-through;
+}
+.hideDiv{
+    display: none;
+}
+
+INPUT[type=checkbox]:focus
+{
+    outline: 1px solid rgba(19, 185, 36, 0.2);
+}
+
+.todo:hover{
+    background-color: white;
+}
